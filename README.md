@@ -1,4 +1,4 @@
-# React-Node Recipe App 🍲
+# React-Node Recipe Platform 
 # Recipe App
 
 ## Overview
